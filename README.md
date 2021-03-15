@@ -1,2 +1,1 @@
-# Algorithms
-Various useful algorithms
+### InplaceMeageSort - сортировка слиянием изспользующая О(1) доп. памяти с асимптотикой О(N*log^2(N))
